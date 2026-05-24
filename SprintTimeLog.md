@@ -43,7 +43,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | 5/22 | 4          |    TP    | Liked database to Project                      |     1:00      |
 | 5/21 | 4          |    TP    | Got database working and filled with variables |     1:00      |
 | 5/21 | 5          |    IM    | Tried fixing bugs                              |     0:30      |
-| 5/21 | 10         |    IM    | Gave up on database and filled manually        |     1:00      |
+| 5/21 | 10         |    IM    | Gave up on database and filled manually        |     1:15      |
 
 _Note: Add more rows as needed._
 
