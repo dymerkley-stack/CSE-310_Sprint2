@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Map Project</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <h1>Local Farms</h1>
+
+    <div id="controls">
+      <h3>Farm Filters</h3>
+
+      <div id="filters">
+        <!-- Left Side -->
+        <div class="filter-group">
+          <div class="button-group">
+            <button id="selectAllBtn">Select All Farms</button>
+            <button id="clearAllBtn">Clear</button>
+          </div>
+
+          <div class="checkbox-group">
+            <label>
+              <input type="checkbox" value="Farm" checked />
+              Farm
+            </label>
+
+            <label>
+              <input type="checkbox" value="Trees" checked />
+              Trees
+            </label>
+
+            <label>
+              <input type="checkbox" value="Animal Products" checked />
+              Animal Products
+            </label>
+          </div>
+        </div>
+
+        <!-- Right Side -->
+        <div class="distance-group">
+          <h4>Distance</h4>
+
+          <div class="slider-row">
+            <span>5 miles</span>
+
+            <input
+              type="range"
+              id="distanceSlider"
+              min="5"
+              max="100"
+              value="25"
+              step="5"
+            />
+
+            <span>100 miles</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Map -->
+    <div id="map"></div>
+
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <!-- Your Script -->
+    <script src="script.js"></script>
+  </body>
+</html>

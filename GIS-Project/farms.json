@@ -1,0 +1,122 @@
+[
+  {
+    "name": "H3 Farms",
+    "lat": 43.7349705248655,
+    "lng": -111.80639347918054,
+    "category": "Farm"
+  },
+  {
+    "name": "Fulsome Farm Beef",
+    "lat": 43.772483132826856,
+    "lng": -111.81397928258848,
+    "category": "Animal Products"
+  },
+  {
+    "name": "McGary Ranches LLC",
+    "lat": 43.769358376444025,
+    "lng": -111.89871756959067,
+    "category": "Animal Products"
+  },
+  {
+    "name": "Spruce Moose Tree Farms",
+    "lat": 43.805544291303356,
+    "lng": -111.8554588994017,
+    "category": "Trees"
+  },
+  {
+    "name": "B&B Farms",
+    "lat": 43.8010841980546,
+    "lng": -111.6844841773211,
+    "category": "Farm"
+  },
+  {
+    "name": "Erikson Farms",
+    "lat": 43.8070309150572,
+    "lng": -111.76207511545405,
+    "category": "Farm"
+  },
+  {
+    "name": "Sutton Yaks",
+    "lat": 43.80893122853038,
+    "lng": -111.79238051528998,
+    "category": "Animal Products"
+  },
+  {
+    "name": "BYU-I Apple Orchard",
+    "lat": 43.817841677284164,
+    "lng": -111.76440804372119,
+    "category": "Farm"
+  },
+  {
+    "name": "Ririe Reservoir Hay Farm",
+    "lat": 43.629184,
+    "lng": -111.742931,
+    "category": "Farm"
+  },
+  {
+    "name": "Thornton Feed & Cattle",
+    "lat": 43.874522,
+    "lng": -111.912483,
+    "category": "Animal Products"
+  },
+  {
+    "name": "Sugar City Produce Farm",
+    "lat": 43.886219,
+    "lng": -111.748217,
+    "category": "Farm"
+  },
+  {
+    "name": "Teton Valley Lavender Farm",
+    "lat": 43.838741,
+    "lng": -111.529842,
+    "category": "Farm"
+  },
+  {
+    "name": "St. Anthony Seed Potato Farm",
+    "lat": 43.965174,
+    "lng": -111.682354,
+    "category": "Farm"
+  },
+  {
+    "name": "Menan River Ranch",
+    "lat": 43.881325,
+    "lng": -111.985114,
+    "category": "Animal Products"
+  },
+  {
+    "name": "Ashton Family Tree Farm",
+    "lat": 44.067281,
+    "lng": -111.448903,
+    "category": "Trees"
+  },
+  {
+    "name": "Teton Organic Growers",
+    "lat": 43.723914,
+    "lng": -111.111742,
+    "category": "Farm"
+  },
+  {
+    "name": "Salem Valley Dairy",
+    "lat": 43.786452,
+    "lng": -111.91354,
+    "category": "Animal Products"
+  },
+  {
+    "name": "Hibbard Vegetable Farm",
+    "lat": 43.923147,
+    "lng": -111.764284,
+    "category": "Farm"
+  },
+  {
+    "name": "Parker Pastures",
+    "lat": 43.889524,
+    "lng": -111.682194,
+    "category": "Animal Products"
+  },
+  {
+    "name": "Newdale Orchard & Nursery",
+    "lat": 43.887013,
+    "lng": -111.604833,
+    "category": "Trees"
+  }
+]

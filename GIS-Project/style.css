@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+  border: 2px solid black;
+}
+
+h3,
+h4 {
+  margin: 0;
+}
+
+#controls {
+  background: white;
+  padding: 12px 15px;
+  border-bottom: 2px solid black;
+}
+
+#filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.filter-group,
+.distance-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.distance-group {
+  margin-left: auto;
+}
+
+.distance-group {
+  margin-left: auto;
+}
+
+.checkbox-group {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+}
+
+.slider-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}

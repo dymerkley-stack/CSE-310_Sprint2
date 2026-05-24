@@ -1,0 +1,16 @@
+[
+  { "name": "Farm A", "lat": 43.81, "lng": -111.78 },
+  { "name": "Farm B", "lat": 43.82, "lng": -111.79 },
+  { "name": "Farm C", "lat": 43.71, "lng": -111.98 },
+  { "name": "Farm D", "lat": 43.72, "lng": -111.99 },
+  { "name": "Farm E", "lat": 43.61, "lng": -111.58 },
+  { "name": "Farm F", "lat": 43.62, "lng": -111.69 },
+  { "name": "Farm G", "lat": 43.51, "lng": -111.18 },
+  { "name": "Farm H", "lat": 43.52, "lng": -111.98 },
+  { "name": "Farm I", "lat": 43.41, "lng": -111.48 },
+  { "name": "Farm J", "lat": 43.42, "lng": -111.29 },
+  { "name": "Farm K", "lat": 43.31, "lng": -111.78 },
+  { "name": "Farm L", "lat": 43.32, "lng": -111.09 },
+  { "name": "Farm M", "lat": 43.21, "lng": -111.48 },
+  { "name": "Farm N", "lat": 43.22, "lng": -111.19 }
+]
