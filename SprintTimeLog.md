@@ -51,7 +51,7 @@ _Note: Add more rows as needed._
 
 | Categroy               |     Total Time (Hours:Minutes)      |
 | ---------------------- | :---------------------------------: |
-| IM - Individual Module |                                     |
+| IM - Individual Module |                  9                  |
 | TP - Team Project      |                 4.5                 |
 | MTG - Class Meetings   | 3 (in addition a prewarned absense) |
 | **TOTAL**              |                                     |
